@@ -5,7 +5,11 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: black;
+  background-image: url(https://motionbgs.com/media/1245/merry-under-the-ocean-one-piece.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; 
   margin: 0;
   padding: 0;
   display: flex;
